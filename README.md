@@ -1,2 +1,2 @@
 # flux
-A minimalist-focused rainmeter skin.
+A minimalist-focused highly customasible rainmeter skin.
