@@ -7,7 +7,7 @@ BackgroundPosY = 0
 
 @include=#@#/Settings/Background-Settings.inc
 
-[BackgroundMeter]
+[MeterBackground]
 Meter=Shape
 X= (#PosX# + #BackgroundPosX#)
 Y= (#PosY# + #BackgroundPosY#)

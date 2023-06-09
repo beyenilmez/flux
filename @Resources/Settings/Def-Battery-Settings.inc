@@ -1,9 +1,8 @@
 [Variables]
-Scale = 0.5
+Scale = 1.5
 Orientation = 0
-
-PaddingX = 0
-PaddingY = 0
+PosX = 0
+PosY = 0
 
 ShellColor = 255, 255, 255
 
@@ -32,3 +31,8 @@ PoleHeight = 30
 PoleRadius = 14
 PoleTransitionRadius = 12
 SmoothPoleTransition = 1
+
+FontColor = #ShellColor#
+TextOpacity = #ShellOpacity#
+BatteryFontWeight = 800
+FontSize=48

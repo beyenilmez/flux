@@ -12,6 +12,6 @@ BackgroundPadding=90
 BackgroundPaddingLeft=#BackgroundPadding#
 BackgroundPaddingRight=#BackgroundPadding#
 BackgroundPaddingTop=#BackgroundPadding#
-BackgroundPaddingBottom=#BackgroundPadding#
+BackgroundPaddingBottom=(#BackgroundPadding# - #FontSize# / 1.3)
 
 BackgroundEffect=None
