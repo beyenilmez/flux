@@ -1,2 +1,0 @@
-[Variables]
-Font = Segoe UI
